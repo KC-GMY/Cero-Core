@@ -1,0 +1,12 @@
+{
+  "CTkTheme": "red.json",
+  "CTkMode": "dark",
+  "CTkWindowsize": "160x128",
+  "baudrate": 9600,
+  "serial_ports": {
+    "kHz": "COM7",
+    "MHz": "COM7",
+    "GHz": "COM9",
+    "Ir": "COM9"
+  }
+}

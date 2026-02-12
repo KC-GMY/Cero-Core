@@ -1,0 +1,4 @@
+directories:
+  data: ./data
+  downloads: ./data/staging
+  user: ./user
